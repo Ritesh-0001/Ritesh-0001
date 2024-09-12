@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-0001&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-0001" /> </p>
 
-- 🔭 I’m currently studying **Information Science & Engineering**
+- 🔭 I’m currently studying **Information Science & Engineering** from **NMIT Bengaluru**
 
 - 🌱 I’m currently learning **new Frontend Technology Stack**
 
