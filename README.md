@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer & Problem solver from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-0001&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-0001" /> </p>
 
-- 🔭 I’m currently studying **Information Science & Engineering** from **NMIT Bengaluru**
+- 🔭 I’m currently studying **Information Science Engineering** from **NMIT Bengaluru**
 
 - 🌱 I’m currently learning **new Frontend Technology Stack**
 
